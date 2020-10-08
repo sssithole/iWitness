@@ -1,2 +1,3 @@
-# iWitness
-The middle service for iWitness 
+# iWitness middle api
+API that houses the bot logic
+
